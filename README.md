@@ -1,6 +1,6 @@
 ![Cover](https://github.com/DaneliaSanchz/DaneliaSanchz/blob/master/IamDanelia.png)
 
-I'm a Frontend Developer, self-taught and goal-oriented, very good at working  and collaborating with people. I'm looking for new challenges and opportunities.
+I'm a Frontend developer specialized in React with experience designing and developing projects of website and web application. Interested in new challenges and opportunities to apply knowledge and skills in the Tech area, grow professionally as a developer within environments that create solutions to problems, contributing and collaborating as a team.
 Currently, I am studying at Platzi.
 
 <hr />
@@ -17,6 +17,7 @@ Currently, I am studying at Platzi.
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 <hr />
 <h3>📈 Github Stats </h3>
